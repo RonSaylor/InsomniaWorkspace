@@ -1,0 +1,10 @@
+_id: fld_45ea826a6ff4485b81a8d761654de3f4
+type: RequestGroup
+parentId: wrk_ac7b968047284271b73edc9be92c7bbf
+modified: 1694707460137
+created: 1694707460137
+name: WeatherApi
+description: ""
+environment: {}
+environmentPropertyOrder: null
+metaSortKey: -1694707460137
